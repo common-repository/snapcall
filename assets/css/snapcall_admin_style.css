@@ -1,0 +1,87 @@
+.snapcall-content {
+  background-color: #292929;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding-bottom: 30px;
+}
+.snapcall-content img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+.snapcall-body {
+  display: block;
+  background-color: #fff;
+  width: inherit;
+  min-width: 250px;
+  margin: 20px auto;
+  border-radius: 5px;
+  text-align: center;
+  padding: 25px 0;
+}
+.snapcall-form label {
+  color: #72777c;
+  font-size: 14px;
+  text-align: left;
+}
+.snapcall-form input {
+  margin: 2px 6px 6px 0;
+  width: 40%;
+  min-width: 150px;
+}
+.snapcall-form-error {
+  color: #8B0000;
+}
+.snapcall-form-success {
+  color: #008000;
+}
+.nav-tab {
+  float: none !important;
+}
+.nav-tab-wrapper {
+  border-bottom: 1px solid #ccc !important;
+}
+.sc-tab {
+  display: none;
+}
+.tab-content-active {
+  display: block !important;
+}
+.sc-first-button {
+  display: none;
+}
+.app-badge {
+  display: inline-block;
+  padding: 0px 10px;
+}
+.app-badge img {
+  width: 95px;
+  height: 30px;  
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 240px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 0;
+  margin-left: -55px;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+#loader {
+  display: none;
+}

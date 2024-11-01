@@ -1,0 +1,147 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Snapcall\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-13 14:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: snapcall.php:112
+msgid "An error occured during the registration"
+msgstr ""
+
+#: snapcall.php:114
+msgid "Checking the connection between your CMS and Snapcall.."
+msgstr ""
+
+#: snapcall.php:115
+msgid "Your CMS is correctly connected to Snapcall !"
+msgstr ""
+
+#: snapcall.php:116
+msgid "An error occured, please try again later"
+msgstr ""
+
+#: snapcall.php:117
+msgid ""
+"An error occured, please try again later, if it still doesn't work, contact "
+"us at hello@snapcall.io."
+msgstr ""
+
+#: snapcall.php:118
+msgid ""
+"Snapcall plugin do not support your navigator, please upgrade to a more "
+"recent one.."
+msgstr ""
+
+#: snapcall.php:119
+msgid "Your name should contain between 2 and 50 characters"
+msgstr ""
+
+#: snapcall.php:120
+msgid "Your email is not valid"
+msgstr ""
+
+#: snapcall.php:121
+msgid "Your password should contain between 8 and 35 characters"
+msgstr ""
+
+#: snapcall.php:122
+msgid "The password confirmation does not match with your password"
+msgstr ""
+
+#: snapcall.php:129
+msgid "Button successfully created !"
+msgstr ""
+
+#: snapcall.php:130
+msgid "You can now manage your buttons on our"
+msgstr ""
+
+#: snapcall.php:131
+msgid "back office"
+msgstr ""
+
+#: snapcall.php:132
+msgid "Not enough licence available"
+msgstr ""
+
+#: snapcall.php:133
+msgid "Invalid Agent ID"
+msgstr ""
+
+#: snapcall.php:134
+msgid "Is this really your first button ?"
+msgstr ""
+
+#: include/first_button.php:2
+msgid "Create your first Snapcall button !"
+msgstr ""
+
+#: include/first_button.php:15
+msgid "Enter your Agent ID"
+msgstr ""
+
+#: include/first_button.php:16
+msgid "Your agent ID is available on the smartphone app or Zendesk !"
+msgstr ""
+
+#: include/first_button.php:25
+msgid "Create !"
+msgstr ""
+
+#: include/index.php:23
+msgid "Wrong username or password."
+msgstr ""
+
+#: include/index.php:49 include/login.php:14
+msgid "Login"
+msgstr ""
+
+#: include/index.php:50 include/register.php:32
+msgid "Register"
+msgstr ""
+
+#: include/login.php:4 include/login.php:6 include/register.php:14
+#: include/register.php:16
+msgid "Email"
+msgstr ""
+
+#: include/login.php:9 include/login.php:11 include/register.php:19
+#: include/register.php:21
+msgid "Password"
+msgstr ""
+
+#: include/register.php:4 include/register.php:6
+msgid "Name"
+msgstr ""
+
+#: include/register.php:9
+msgid "Site url"
+msgstr ""
+
+#: include/register.php:24 include/register.php:26
+msgid "Confirm password"
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Snapcall"
+msgstr ""
+
+#. Description of the plugin
+msgid "Connect your CMS with Snapcall !"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://web.snapcall.io/en/"
+msgstr ""

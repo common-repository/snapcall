@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Snapcall\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-13 14:16+0000\n"
+"PO-Revision-Date: 2018-04-13 14:16+0000\n"
+"Last-Translator: julien <admin@wp.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: snapcall.php:112
+msgid "An error occured during the registration"
+msgstr "Une erreur est survenue durant l'inscription"
+
+#: snapcall.php:114
+msgid "Checking the connection between your CMS and Snapcall.."
+msgstr "Vérification de la connection entre votre CMS et Snapcall.."
+
+#: snapcall.php:115
+msgid "Your CMS is correctly connected to Snapcall !"
+msgstr "Votre CMS est correctement connecté avec Snapcall !"
+
+#: snapcall.php:116
+msgid "An error occured, please try again later"
+msgstr "Une erreur est survenue, merci de ré-essayer plus tard"
+
+#: snapcall.php:117
+msgid ""
+"An error occured, please try again later, if it still doesn't work, contact "
+"us at hello@snapcall.io."
+msgstr ""
+"Une erreur est survenue, merci de ré-essayer plus tard, sinon contactez nous "
+"à hello@snapcall.io."
+
+#: snapcall.php:118
+msgid ""
+"Snapcall plugin do not support your navigator, please upgrade to a more "
+"recent one.."
+msgstr ""
+"Le plugin Snapcall ne supporte pas votre navigateur, merci d'utiliser un "
+"navigateur récent et à jour.."
+
+#: snapcall.php:119
+msgid "Your name should contain between 2 and 50 characters"
+msgstr "Votre nom doit contenir entre 2 et 50 caractères"
+
+#: snapcall.php:120
+msgid "Your email is not valid"
+msgstr "Votre email n'est pas valide"
+
+#: snapcall.php:121
+msgid "Your password should contain between 8 and 35 characters"
+msgstr "Votre mot de passe doit contenir entre 8 et 35 caractères"
+
+#: snapcall.php:122
+msgid "The password confirmation does not match with your password"
+msgstr "La confirmation du mot de passe ne correspond pas avec celui fournis"
+
+#: snapcall.php:129
+msgid "Button successfully created !"
+msgstr "Bouton créer avec succès !"
+
+#: snapcall.php:130
+msgid "You can now manage your buttons on our"
+msgstr "Vous pouvez désormais gérer vos boutons sur notre"
+
+#: snapcall.php:131
+msgid "back office"
+msgstr "back office"
+
+#: snapcall.php:132
+msgid "Not enough licence available"
+msgstr "Pas assez de licence disponible"
+
+#: snapcall.php:133
+msgid "Invalid Agent ID"
+msgstr "ID Agent incorrect"
+
+#: snapcall.php:134
+msgid "Is this really your first button ?"
+msgstr "Est-ce vraiment votre premier bouton ?"
+
+#: include/first_button.php:2
+msgid "Create your first Snapcall button !"
+msgstr "Créer votre premier bouton Snapcall !"
+
+#: include/first_button.php:15
+msgid "Enter your Agent ID"
+msgstr "Entre votre ID Agent"
+
+#: include/first_button.php:16
+msgid "Your agent ID is available on the smartphone app or Zendesk !"
+msgstr ""
+"Votre ID Agent est disponible depuis votre application smartphone ou sur "
+"Zendesk !"
+
+#: include/first_button.php:25
+msgid "Create !"
+msgstr "Créer !"
+
+#: include/index.php:23
+msgid "Wrong username or password."
+msgstr "Mauvais nom d'utilisateur ou mot de passe."
+
+#: include/index.php:49 include/login.php:14
+msgid "Login"
+msgstr "Connexion"
+
+#: include/index.php:50 include/register.php:32
+msgid "Register"
+msgstr "Inscription"
+
+#: include/login.php:4 include/login.php:6 include/register.php:14
+#: include/register.php:16
+msgid "Email"
+msgstr "Email"
+
+#: include/login.php:9 include/login.php:11 include/register.php:19
+#: include/register.php:21
+msgid "Password"
+msgstr "Mot de passe"
+
+#: include/register.php:4 include/register.php:6
+msgid "Name"
+msgstr "Nom"
+
+#: include/register.php:9
+msgid "Site url"
+msgstr "Url du site"
+
+#: include/register.php:24 include/register.php:26
+msgid "Confirm password"
+msgstr "Confirmation du mot de passe"
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Snapcall"
+msgstr "Snapcall"
+
+#. Description of the plugin
+msgid "Connect your CMS with Snapcall !"
+msgstr "Connectez votre CMS avec Snapcall !"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://web.snapcall.io/en/"
+msgstr "https://web.snapcall.io/fr/"
